@@ -7,3 +7,5 @@ Root 6 =>
             1       5        7       9
          0    2    4        
 
+
+![](https://raw.githubusercontent.com/SumeyraOral/VeriYapilariveAlgoritmalar/main/Proje3/1.png)
